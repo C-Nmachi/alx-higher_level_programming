@@ -1,1 +1,1 @@
-SQL more queries
+Higher Level Programming for Python
